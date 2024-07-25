@@ -11,13 +11,14 @@
     "type": "separator",
     "title": "QuickStart"
   },
-  "native-yield": "Native Yield on ApeChain",
-  "metamask": "Add ApeChain to Metamask",
-  "bridge": "Bridge Assets to ApeChain",
-  "faucet": "Receive Faucet Funds",
+ 
+  "metamask": "Wallet",
+  "bridge": "Bridge",
+  "faucet": "Faucet",
+  "native-yield": "Native Yield",
   
   "advanced": {
-    "title":"Deploy on ApeChain"
+    "title":"Deploy"
   },
   "seperator_3": {
     "type": "separator",
@@ -37,5 +38,9 @@
     "title": "Hub Page ↗",
     "href": "https://curtis.hub.caldera.xyz/",
     "newWindow": true
+  },  
+  "seperator_4": {
+    "type": "separator",
+    "title": "Community"
   }
 }
